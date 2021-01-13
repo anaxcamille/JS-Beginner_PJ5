@@ -1,0 +1,35 @@
+*{
+	padding: 0;
+	margin: 0;
+	border-style: border-box;
+}
+body{
+	background-color: #66545e;
+}
+.container{
+	width: 100vh;
+	height: 50vh;
+	background-color: 	#a39193;
+	margin: 20vh 0 0 50vh;
+}
+#demo{
+	color:white;
+	font-size: 5em;
+	margin:20vh 0 0 45vh;
+}
+.inner{
+	padding: 1px;
+}
+#count_up,#count_down,#mySelect{
+	margin-left: 10vh;
+	width:10vh;
+	height: 5vh;
+	border:none;
+	margin: ;
+}
+#mySelect{
+	margin-left: 25vh;
+}
+#count_up:hover,#count_down:hover{
+	box-shadow: 2px 2px 2px 2px black;
+}
